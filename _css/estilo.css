@@ -260,6 +260,8 @@ a:hover {
 #rodape {
     clear: both;
     border-top: 1px dotted #8d8c8c;
+    padding-top: 14px;
+    margin-bottom: -12px;
 }
 
 #rodape p {
