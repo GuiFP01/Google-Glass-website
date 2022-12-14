@@ -21,30 +21,31 @@ legend {
     font-weight: bold;
     font-size: 13pt;
     font-family: sans-serif;
+    padding: 5px;
 }
 
 fieldset {
     border-color: #cecece;
     margin: 20px;
-    border-radius: 15px 0;
+    border-radius: 10px 10px 0 10px;
 }
 
-fieldset#sexo {
-    width: 150px;
-}
-
-fieldset#usuario {
+#usuario {
     background: url("../_imagens/icone-contato.png") no-repeat 95% 95%;
 }
 
-fieldset#endereco {
+#sexo {
+    width: 150px;
+}
+
+#endereco {
     background: url("../_imagens/icone-endereco.png") no-repeat 95% 95%;
 }
 
-fieldset#mensagem {
+#mensagem {
     background: url("../_imagens/icone-mensagem.png") no-repeat 95% 95%;
 }
 
-fieldset#pedido {
+#pedido {
     background: url("../_imagens/icone-pagamento.png") no-repeat 95% 95%;
 }

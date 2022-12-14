@@ -1,13 +1,13 @@
 @charset "UTF-8";
 
-div#tv-radio {
+#tv-radio {
     width: 900px;
     height: 580px;
     margin: auto;
     background: url("../_imagens/radio-tv.png") no-repeat;
 }
 
-audio#musica {
+#musica {
     display: block;
     position: relative;
     left: 573px;
@@ -15,7 +15,7 @@ audio#musica {
     width: 300px;
 }
 
-video#filme {
+#filme {
     display: block;
     position: relative;
     left: 89px;
