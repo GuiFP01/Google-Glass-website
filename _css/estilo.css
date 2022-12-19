@@ -6,13 +6,13 @@
 }
 
 body {
-    background-color: hsla(0, 0%, 24%, 0.2);
+    background-color: hsla(0, 0, 24%, .2);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top, center;
     background-size: 100%;
     background-blend-mode: color;   
-    color: rgba(0,0,0,1);
+    color: rgba(0,0,0,.1);
     color: black;
     font-family: Arial, sans-serif;
 }
@@ -181,7 +181,7 @@ a:hover {
 #cabecalho-artigo h2 {
     font-size: 13pt;
     margin-top: 0;
-    background-color: rgba(162, 161, 184, 0.11);
+    background-color: rgba(162, 161, 184, 0.1);
 }
 
 #cabecalho-artigo h3 {
